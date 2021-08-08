@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding: 0px;
+    border: lightslategray;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size:x-large;
+    background-color: aquamarine; 
+}
